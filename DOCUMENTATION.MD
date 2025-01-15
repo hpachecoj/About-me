@@ -197,9 +197,7 @@
 ### Bibliotecas
 ### APIs diversas
 
-Banco de Dados
-SQL: Linguagem padrão para gerenciamento de bancos de dados relacionais.
-Engenharia de Dados: Disciplina que envolve a construção e manutenção de sistemas de dados.
+
 
 ### Banco de dados
 - SQL
@@ -810,6 +808,207 @@ Engenharia de Dados: Disciplina que envolve a construção e manutenção de sis
 - [Legendas: Captions](https://www.captions.com/)
 - [Legendas: Capcut](https://www.capcut.com/)
 - [Música: Soundrow](https://www.soundrow.com/)
+
+
+# Links massivos com as tecnologias mencionadas acima:
+# Documentação de Tecnologias
+
+## Banco de Dados
+
+- **[SQL](https://www.w3schools.com/sql/)**: Linguagem padrão para gerenciamento de bancos de dados relacionais.
+- **[Engenharia de Dados](https://towardsdatascience.com/data-engineering-101-what-is-data-engineering-and-why-is-it-important-4f0e9b8c1c3f)**: Disciplina que envolve a construção e manutenção de sistemas de dados.
+
+## Inteligência Artificial
+
+- **[Machine Learning](https://developers.google.com/machine-learning/crash-course)**: Campo da IA que permite que sistemas aprendam a partir de dados.
+- **[Redes Neurais](https://www.alura.com.br/artigos/redes-neurais)**: Estruturas que imitam o funcionamento do cérebro humano para processar informações.
+- **[Processamento de Linguagem Natural (NLP)](https://www.nltk.org/)**: Área da IA que permite que computadores entendam e interpretem a linguagem humana.
+- **[Área de Dados](https://www.kdnuggets.com/)**: Envolve a coleta, análise e visualização de dados para obter insights valiosos.
+- **[Visualização de Dados](https://plotly.com/python/)**: O processo de representar dados graficamente para facilitar a interpretação.
+- **[Python](https://www.python.org/)**: Linguagem amplamente utilizada em ciência de dados e inteligência artificial.
+
+## IDEs Utilizadas
+
+- **[Visual Studio Code (VSCode)](https://code.visualstudio.com/)**: IDE leve e extensível, popular entre desenvolvedores.
+- **[Cursor](https://cursor.so/)**: IDE focada em colaboração em tempo real.
+- **[Sublime Text](https://www.sublimetext.com/)**: Editor leve e altamente personalizável.
+- **[Eclipse](https://www.eclipse.org/)**: IDE open-source amplamente utilizada, especialmente em Java.
+- **[NetBeans](https://netbeans.apache.org/)**: IDE open-source que suporta várias linguagens, incluindo Java e PHP.
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**: IDE robusta, especialmente para Java e Kotlin.
+
+## Tipos de Programação
+
+### Programação de Software
+
+#### Desenvolvimento Web
+- **Front-end**
+  - **[HTML/CSS](https://www.w3schools.com/html/)**
+  - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+  - **[React](https://reactjs.org/)**
+  - **[Angular](https://angular.io/)**
+  - **[Vue.js](https://vuejs.org/)**
+  - **[Bootstrap](https://getbootstrap.com/)**
+  - **[Tailwind CSS](https://tailwindcss.com/)**
+  
+- **Back-end**
+  - **[Node.js](https://nodejs.org/)**
+  - **[Express.js](https://expressjs.com/)**
+  - **[Django](https://www.djangoproject.com/)**
+  - **[Ruby on Rails](https://rubyonrails.org/)**
+  - **[ASP.NET](https://dotnet.microsoft.com/apps/aspnet)**
+  - **[Laravel](https://laravel.com/)**
+  - **[Spring Boot](https://spring.io/projects/spring-boot)**
+
+- **Full-stack**
+  - MERN Stack (MongoDB, Express.js, React, Node.js)
+  - MEAN Stack (MongoDB, Express.js, Angular, Node.js)
+
+#### Desenvolvimento Mobile
+- **[React Native](https://reactnative.dev/)**
+- **[Flutter](https://flutter.dev/)**
+- **[Xamarin](https://dotnet.microsoft.com/apps/xamarin)**
+- [Swift (para iOS)](https://swift.org/)
+- [Kotlin (para Android)](https://kotlinlang.org/)
+
+#### Desenvolvimento de Aplicativos Desktop
+- **[Electron](https://www.electronjs.org/)**
+- **[JavaFX](https://openjfx.io/)**
+- [WinForms (C#)](https://docs.microsoft.com/dotnet/desktop/winforms/?view=netdesktop-6.0)
+- [GTK (GIMP Toolkit)](https://www.gtk.org/)
+- [Qt](https://www.qt.io/)
+
+#### Desenvolvimento de Jogos
+- **[Unity](https://unity.com/)**
+- **[Unreal Engine](https://www.unrealengine.com/en-US/)**
+- **[Phaser](http://phaser.io/)**
+- **[Godot Engine](https://godotengine.org/)**
+- **[Cocos2d](http://cocos2d-x.org/)**
+
+#### Engenharia de Software
+- **[Git](https://git-scm.com/)**
+- [Agile Manifesto](http://agilemanifesto.org/)
+- [DevOps Handbook](https://itrevolution.com/the-devops-handbook/)
+- Testes de Software (por exemplo, [Jest](https://jestjs.io/), [JUnit](https://junit.org/junit5/))
+
+#### Programação de Sistemas Embarcados
+- **[Arduino](https://www.arduino.cc/)**
+- **[Raspberry Pi](https://www.raspberrypi.org/)**
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)
+
+### Ciência de Dados e Análise
+
+#### Análise de Dados
+- **[Pandas](https://pandas.pydata.org/)**
+- **[NumPy](https://numpy.org/)**
+- **[SciPy](https://scipy.org/)**
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [R Project](https://www.r-project.org/)
+
+#### Aprendizado de Máquina (Machine Learning)
+- **[TensorFlow](https://www.tensorflow.org/)**
+- **[PyTorch](https://pytorch.org/)**
+- **[scikit-learn](https://scikit-learn.org/stable/)**
+- **[Keras](https://keras.io/)**
+- [Weka](http://waikato.github.io/weka-wiki/)
+
+#### Inteligência Artificial (IA)
+- [OpenAI Gym](http://gym.openai.com/)
+- [IBM Watson AI](https://www.ibm.com/watson)
+- [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
+
+#### Processamento de Linguagem Natural (NLP)
+- [NLTK (Natural Language Toolkit)](http://www.nltk.org/)
+- [SpaCy](https://spacy.io/)
+  
+### Segurança Cibernética
+
+#### Teste de Penetração
+- [Kali Linux ]( https://www.kali.org/)
+  
+#### Análise de Vulnerabilidades
+ - [Nessus ]( https://www.tenable.com/products/nessus)
+ - [Wireshark ]( https:/ /www.wireshark.org/)
+  
+#### Segurança de Redes
+ - [IPTables ]( https:/ /netfilter.org/projects/iptables/index.html)
+  
+#### Criptografia
+ - [OpenSSL ]( https:/ /www.openssl.org/)
+  
+### Automação e Scripts
+
+#### Automação de Tarefas
+ - [Selenium ]( https:/ /www.selenium.dev/)
+  
+### Scripting de Sistemas
+ - [Bash ]( https:/ /www.gnu.org/software/bash/)
+  
+### Banco de Dados
+
+#### Modelagem de Dados
+ - [MySQL ]( https:/ /www.mysql.com/)
+ - [PostgreSQL ]( https:/ /www.postgresql.org/)
+ 
+### Programação de Jogos
+
+#### Design de Jogos
+ - [Unity Editor ]( https:/ /unity.com/)
+  
+### Programação Funcional
+
+#### Linguagens Funcionais
+ - Haskell [Acesse Haskell Documentation ]( https:/ /haskell-lang.org/)
+ 
+### Programação Web
+
+#### HTML/CSS
+ - HTML/CSS [Acesse HTML/CSS Documentation ]( https:/ /developer.mozilla.org/en-US/docs/Web/Tutorials)
+
+## Linguagens de Programação
+
+Aqui estão algumas das linguagens mais utilizadas:
+
+* **[C](https://en.wikipedia.org/wiki/C_(programming_language))**: Linguagem amplamente utilizada em sistemas operacionais e desenvolvimento de software.
+* **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**: Uma extensão da linguagem C que suporta programação orientada a objetos.
+* **[Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)**: Linguagem popular para desenvolvimento de aplicações corporativas e Android.
+* **[Python](https://www.python.org/)**: Conhecida por sua simplicidade e versatilidade, utilizada em ciência de dados, automação e desenvolvimento web.
+* **[Ruby](https://www.ruby-lang.org/en/)**: Linguagem dinâmica e de alto nível, famosa pelo framework Ruby on Rails.
+* **[PHP](https://www.php.net/)**: Usada principalmente para desenvolvimento web, especialmente em servidores.
+* **[C#](https://dotnet.microsoft.com/en-us/languages/csharp)**: Linguagem desenvolvida pela Microsoft, amplamente utilizada em aplicações desktop e jogos.
+* **[Swift](https://swift.org/)**: Linguagem desenvolvida pela Apple para desenvolvimento de aplicativos iOS e macOS.
+* **[Kotlin](https://kotlinlang.org/)**: A linguagem oficial para desenvolvimento Android, conhecida por sua sintaxe concisa.
+* **[TypeScript](https://www.typescriptlang.org/)**: Uma superconjunto do JavaScript que adiciona tipagem estática.
+* **[Rust](https://www.rust-lang.org/)**: Focada em segurança e desempenho, popular em sistemas críticos e desenvolvimento de jogos.
+* **[Go (Golang)](https://golang.org/)**: Criada pelo Google, conhecida por sua eficiência em aplicações de back-end.
+* **[JavaScript (incluindo Node.js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: Essencial para desenvolvimento web, tanto no front-end quanto no back-end com Node.js.
+* **[HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML)**: Linguagens fundamentais para a construção de páginas web.
+* **[Assembly](ttps:/en.wikipedia.org/wiki/Assembly_language)**: Linguagem de baixo nível usada para programação próxima ao hardware.
+* **Linguagem de Máquina**: Código que é diretamente executado pela CPU do computador. 
+* [ASP]: Tecnologia da Microsoft para construção de aplicações web dinâmicas. 
+* ActionScript: Linguagem usada para programar aplicativos e animações na plataforma Adobe Flash. 
+* Pascal (Object Pascal): Linguagem estruturada usada principalmente na educação e no desenvolvimento de software. 
+* Euphoria: Uma linguagem simples e fácil de aprender, ideal para iniciantes. 
+* Lua: Uma linguagem leve e poderosa, frequentemente usada em jogos e aplicações embarcadas. 
+* MATLAB: Usada principalmente para cálculos matemáticos e simulações. 
+* R: Focada em estatística e análise de dados, amplamente utilizada em ciência de dados. 
+* TCL: Uma linguagem de script usada em integração de sistemas e automação. 
+* Basic: Uma linguagem simples que foi amplamente utilizada na educação inicial em programação. 
+* Visual Basic: Usada principalmente para desenvolvimento de aplicações Windows. 
+* Objective-C: Usada principalmente para o desenvolvimento de aplicativos iOS antes do Swift. 
+* Scala: Combina programação funcional com programação orientada a objetos, popular em big data com Apache Spark. 
+* Algol: Uma linguagem influente que ajudou a definir a estrutura das linguagens modernas. 
+* Fortran: Uma das linguagens mais antigas, ainda utilizada em cálculos científicos e engenharia. 
+* Perl: Conhecida por seu uso em administração de sistemas e processamento de texto. 
+* Dart: Desenvolvida pelo Google, é usada principalmente no desenvolvimento web e móvel com Flutter. 
+* PowerShell: Uma linguagem de script da Microsoft voltada para automação do sistema operacional Windows. 
+* Prolog: Usada principalmente em inteligência artificial e linguagens naturais. 
+* Lisp: Uma das linguagens mais antigas, conhecida por sua capacidade de manipulação simbólica. 
+* XHTML: Uma reformulação do HTML como uma aplicação XML mais rigorosa. 
+* JSON: Formato leve para troca de dados, amplamente utilizado na comunicação entre servidores e clientes.
+
+Esta lista fornece links diretos a recursos úteis sobre cada linguagem mencionada, permitindo um acesso fácil a informações adicionais e tutoriais relevantes.
+
+
 - [Música: Beatoven](https://www.beatoven.com/)
 - [Criação de Apresentações(Power Pont): Tome app](https://www.tomeapp.com/)
 - [Organização e produtividade: Notion.ai](https://www.notion.ai/)
