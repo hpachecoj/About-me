@@ -196,6 +196,11 @@
 
 ### Bibliotecas
 ### APIs diversas
+
+Banco de Dados
+SQL: Linguagem padrão para gerenciamento de bancos de dados relacionais.
+Engenharia de Dados: Disciplina que envolve a construção e manutenção de sistemas de dados.
+
 ### Banco de dados
 - SQL
 - Engenharia de Dados
