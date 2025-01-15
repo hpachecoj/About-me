@@ -46,7 +46,7 @@ Olá! Meu nome é Henrique Pacheco e sou um Programador Fullstack com mais de 5 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) &nbsp; 
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) &nbsp; 
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) &nbsp; 
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 
 
