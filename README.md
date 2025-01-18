@@ -47,6 +47,15 @@ Olá! Meu nome é Henrique Pacheco e sou um Programador Fullstack com mais de 5 
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) &nbsp; 
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) &nbsp; 
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com) &nbsp;
+[![Beecrowd](https://img.shields.io/badge/-Beecrowd-00599C?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br) &nbsp;
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
+
+
+
+
+
+
 
 
 
