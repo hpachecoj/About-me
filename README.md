@@ -74,9 +74,40 @@ Olá! Meu nome é Henrique Pacheco e sou um Programador Fullstack com mais de 5 
 
 
 
+## Aprendizado Técnico
+
+- [Como Se Tornar um Programador em 2024](https://www.youtube.com/watch?v=Kf68YBMOPoM)
+  - Uma abordagem abrangente às habilidades e conhecimentos técnicos necessários para se tornar um programador em 2024.
+- [Documentos Web MDN](https://developer.mozilla.org/pt-BR/)
+  - Um dos melhores recursos para aprender sobre desenvolvimento web, incluindo HTML, CSS, JavaScript e outras tecnologias web.
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+  - Plataforma gratuita para aprender programação, com uma ampla variedade de cursos e projetos práticos.
+- [Codecademy](https://www.codecademy.com/)
+  - Plataforma interativa que oferece cursos de programação em várias linguagens, incluindo JavaScript, Python e mais.
+- [JavaScript.info](https://javascript.info/)
+  - Um recurso abrangente para aprender JavaScript, desde os básicos até tópicos avançados.
+- [Coursera - Engenheiro de Software](https://www.coursera.org/browse/computer-science/software-development)
+  - Cursos e especializações oferecidos por universidades renomadas sobre desenvolvimento de software.
+
+## Desafios online
+- [Leetcode](https://leetcode.com/)
+- [Beecrowd](https://beecrowd.com/pt/#)
 
 
+## Projetos:
 
+- [Plataforma de Estudo Online](https://github.com/FutureDataEnginer/coding-school)<br/>
+- [Estudos de Paradigmas Linguísticos Disruptivos]()<br/>
+- [Pesquisa de Sistemas de Inteligência Artificial]()<br/>
+- [Projeto Amber]()<br/>
+- [Projeto CSM]()<br/>
+
+## Inteligências Artificiais:
+
+- [Para programação - BlackboxAI](https://www.blackbox.ai/)<br/>
+- [Para conteúdo geral - ChatGPT](https://chatgpt.com/)<br/>
+- [Para revisão de texto - Gemini](https://gemini.google.com/app)<br/>
+- [Para pesquisa geral - Perplexity](https://www.perplexity.ai/)<br/>
 
 ## Contato
 
