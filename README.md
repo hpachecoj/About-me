@@ -74,7 +74,7 @@ Olá! Meu nome é Henrique Pacheco e sou um Programador Fullstack com mais de 5 
 
 ### Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hpachecoj&layout=compact&theme=radical)
-![Conquistas do GitHub](https://github-profile-trophy.vercel.app/?username=hpachecoj&theme=dracula&no-frame=true&column=6&margin-w=15)
+
 
 
 
